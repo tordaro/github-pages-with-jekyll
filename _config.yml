@@ -10,4 +10,4 @@ github_username:  https://github.com/tordaro
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: minima
+theme: jekyll-theme-merlot
